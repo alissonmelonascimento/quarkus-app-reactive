@@ -1,6 +1,6 @@
 # SIAOI-APP-JDBC
 
-Exemplo de projeto feito em Quarkus para demonstrar a interação com o banco de dados PostgreSQL por meio de JDBC.
+Exemplo de projeto feito em Quarkus para demonstrar a interação com o banco de dados PostgreSQL por meio de programação reativa.
 
 ## Dependências
 - Quarkus 2.7.1

@@ -1,4 +1,4 @@
-# SIAOI-APP-JDBC
+# SIAOI-APP-REACTIVE
 
 Exemplo de projeto feito em Quarkus para demonstrar a interação com o banco de dados PostgreSQL por meio de programação reativa.
 
